@@ -1,0 +1,78 @@
+ <style type="text/css">
+    
+    @media (min-width:0) and (max-width:607px){
+     #MainContent_WebChartControl2_IMG{
+       padding-right: 270px;
+       
+         }
+ #MainContent_WebChartControl3_IMG{
+       padding-right: 270px;
+      
+     
+         }
+    #MainContent_WebChartControl1_IMG{
+         padding-right: 400px;
+          padding-left: 90px;
+          margin-top: -190px;
+           margin-left: -116px;
+         
+    }
+
+
+}
+
+
+        @media (min-width: 608px)and (max-width: 768px) {
+            #MainContent_WebChartControl3_IMG {
+                padding-left: 140px;
+                margin-left: -140px; 
+            }
+
+            #MainContent_WebChartControl2_IMG {
+                padding-left: 140px;
+                margin-left: -140px;
+            }
+
+            #MainContent_WebChartControl1_IMG {
+                padding-right: 300px;
+                padding-left: 90px;
+                margin-top: -100px;
+                margin-left: -40px;
+            }
+        }
+
+         
+     @media (min-width: 769px) and (max-width: 791px){
+    #MainContent_WebChartControl2_IMG{
+         padding-left: 1px;
+         margin-left: -70px;
+         }
+    #MainContent_WebChartControl1_IMG {
+                padding-right: 70px;
+                padding-left: 8px;
+               
+                margin-left: -70px;
+            }
+     
+
+   }
+     @media (min-width: 792px) and (max-width: 894px){
+    #MainContent_WebChartControl2_IMG{
+         padding-left: 1px;
+         margin-left: -50px;
+         }
+    #MainContent_WebChartControl1_IMG {
+                padding-right: 70px;
+                padding-left: 8px;
+               
+                margin-left: -40px;
+            }
+     
+
+   }
+   body 
+   {
+      direction:inherit !important; 
+       }
+
+</style>  

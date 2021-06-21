@@ -1,0 +1,48 @@
+ 1. 
+ .table-responsive
+        {
+            overflow:auto;
+             
+            }
+          
+
+           #table-id
+            {
+                width:800px !important;
+                 
+                }
+                 body 
+   {
+      direction:inherit !important; 
+ 
+      }
+
+2. 
+ #MainContent_ASPxGridView1
+            {
+                width:800px !important;
+                 
+                }
+   body 
+   {
+       
+      direction:inherit !important; 
+       }
+
+
+3. put: 
+direction:inherit !important; 
+in the body and container block =>
+ #vid-container
+            {
+               
+                overflow:scroll;
+                 margin-bottom:30px;
+                 direction:inherit !important; 
+                }
+                #table
+                {
+                    width:90vw !important;
+                    direction:inherit !important; 
+                    
+                    }

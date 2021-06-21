@@ -1,0 +1,15 @@
+ .nav-drop
+	 {
+	     background:white;
+	          
+	           }
+	           .nav-drop .txt 
+	           {
+	                color:#666564;
+	                
+	               }
+	               .navigation > ul > li
+	               {
+	                   background:#ece4e1;
+	                   }
+	               
