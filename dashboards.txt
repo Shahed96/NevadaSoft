@@ -70,9 +70,9 @@
      
 
    }
-   body 
+  main
    {
-      direction:inherit !important; 
+      direction:initial !important ; 
        }
 
 </style>  
